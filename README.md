@@ -9,5 +9,5 @@
 
 You can save the model.
 
-Accuracy of more than 90% in 10 epochs
+Accuracy of more than 90% in 10 epochs.
 
